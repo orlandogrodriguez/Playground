@@ -1,0 +1,6 @@
+framework module Pods_PlaygroundUITests {
+  umbrella header "Pods-PlaygroundUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
